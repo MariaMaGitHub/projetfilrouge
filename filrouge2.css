@@ -1,0 +1,102 @@
+body {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    font-family: 'Roboto';
+    
+    background-image: url(https://media.istockphoto.com/vectors/african-woman-in-turban-vector-id1208238325?k=20&m=1208238325&s=612x612&w=0&h=jx8urveSg9JzYtrSNDDd_37EodEEYeIh2XYkaSW8-M4=);
+    
+    background-size: 618px;
+    
+  }
+  
+   
+#menu,
+  footer {
+    
+    background-image: url(https://st4.depositphotos.com/14867562/23707/v/600/depositphotos_237076204-stock-illustration-set-of-ethnic-seamless-patterns.jpg);
+    color: rgb(240, 225, 17);
+}
+
+#menu {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 160px;}
+    
+
+#menu ul {
+    padding: 7px;
+    list-style: none;}
+    
+#menu ul li,
+#menu ul li a {
+    display: block;
+         
+}
+       
+#menu a {
+    color:rgb(250, 34, 117);
+    text-decoration: none;
+    font-size: 27px;
+}
+        
+#menu ul {
+    display: flex;
+    
+}
+        
+#menu ul li a {
+    padding: 7px;
+    
+}
+        
+#menu input {
+    height: 30px;
+}
+               
+#menu div {
+    display: flex;
+}
+        
+main {
+    flex: 10;
+    padding: 0 160px;
+    text-align: center;
+}
+        
+main header h1 {
+    margin: 0;
+    font-size: 90px;
+    font-family: 'AfricaFashion';
+    color: #f34040;
+    font-size: 66px;
+    padding-top: 55px;
+    justify-content: space-between;
+    
+}
+
+       
+main header h2 {
+   height: 220px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items:center;
+   font-size: 45px;
+   color:rgb(71, 63, 60);
+   padding-top: 0px;  
+}
+
+aside{
+    font-size: 22px;
+       
+}
+
+footer{
+    height: 480px;
+    width: 970px;
+    background-image: url(https://m.creations-savoir-faire.com/var/comexposium/storage/images/media/csf-medias/images/2017/actus/wax/selection-mode-wax/3719177-1-fre-FR/Selection-mode-wax.jpg);
+}

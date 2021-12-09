@@ -1,0 +1,38 @@
+body{
+    background-color:pink;
+}
+
+#haut{
+    background-color: rgb(188, 154, 219);
+    padding-bottom: 40px;
+    background-image: url(https://archzine.fr/wp-content/uploads/2021/02/exemple-d-e%CC%81ventail-couleur-rose-saumon-vert-pastel-sur-fond-bois-blanc-image-couleur-pastel-fond-pc.jpg);
+    
+    
+}
+#menu {
+    background-color:salmon;
+    width:400px;
+    height: 813px;
+    float:left;
+    margin-right: 20px;
+    padding-right: 40px;
+    background-size:0px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: maroon;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyFex_UPqNE0nIf0zUF0-nYiB6UqHxQvljS0fdY8xAM_ksCOUZrF6Bfi-kfSkoPj5KTs&usqp=CAU);
+}
+
+#contenu {
+    margin-left:450px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: contain;
+    font-size: 12px;
+    color:rgb(87, 9, 63);
+    background-image: url(https://lh3.googleusercontent.com/proxy/MK9A4XuVmG2GKzdArIUJw2Uv_vQu1BOoIE9LKqYun7-C57hgjqOyyryO4yRXfb8Wx5zpH0CW89O4ItbX1L_Y59TVHMbE69KOyho2CYMs);
+        
+}
+    
+    
